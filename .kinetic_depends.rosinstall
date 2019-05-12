@@ -7,6 +7,6 @@
     uri: https://github.com/JenniferBuehler/general-message-pkgs
     version: master
 - git:
-    local-name: gazebo-pkgs
-    uri: https://github.com/MoriKen254/gazebo-pkgs
-    version: add-inst
+    local-name: motoman_deps/gazebo-pkgs
+    uri: https://github.com/JenniferBuehler/gazebo-pkgs
+    version: master
